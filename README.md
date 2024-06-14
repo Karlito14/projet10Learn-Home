@@ -18,7 +18,7 @@ Learn@Home est une association qui met en relation des enfants en difficulté sc
 
 ## Mes rendus
 
-* [Maquette du site](https://www.figma.com/file/t60JfYwyKkIpbR4XXVJ2Qw/Learn-%40-home?type=design&node-id=9%3A365&mode=design&t=pabW4v0eFPVNi2wP-1)
+* [Maquette du site](https://www.figma.com/design/t60JfYwyKkIpbR4XXVJ2Qw/Learn-%40-home?node-id=0-1&t=SRw7lRMDw5hluqoI-1)
 * [Diagrammes](https://lucid.app/lucidchart/ad86b1f1-9878-4a7c-94c7-7a3f32240cba/view)
 * [Kanban](https://majestic-torta-74d.notion.site/Dev4U-projet-Learn-Home-00d41d977239436190431aa4816a8d53?pvs=74)
 
